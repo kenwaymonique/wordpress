@@ -1,6 +1,8 @@
 # wordpress
 Aulas da Kick utilizando WordPress
 
+Link o doc no Drive: https://drive.google.com/drive/folders/1tq9RrrcwEV_zjNy3j7CWnYkj2aog-VN4?usp=sharing
+
 Paleta de cores:
 ![image](https://user-images.githubusercontent.com/102621446/188752973-b0c001cd-c3ce-4837-8b83-3f14f7caee2b.png)
 
