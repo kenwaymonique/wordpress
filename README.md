@@ -3,6 +3,13 @@ Aulas da Kick utilizando WordPress
 
 Link o doc no Drive: https://drive.google.com/file/d/1Nt0M9d5xKWUtPzhTc5IaCdZSwccNJIKn/view?usp=sharing
 
+Link do site: https://monique-seixas.soukick.com.br/index.php/index/
+
+PDF:
+
+
+[Captura da Web_3-10-2022_184736_monique-seixas.soukick.com.br (1).pdf](https://github.com/kenwaymonique/wordpress/files/9701262/Captura.da.Web_3-10-2022_184736_monique-seixas.soukick.com.br.1.pdf)
+
 Paleta de cores:
 ![image](https://user-images.githubusercontent.com/102621446/188752973-b0c001cd-c3ce-4837-8b83-3f14f7caee2b.png)
 
